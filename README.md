@@ -6,7 +6,7 @@ The assistant is designed to be personalized for each user with memory functiona
 - OpenAI-based AI assistant for natural language understanding
 - Speech-to-text and text-to-speech integration
 - Memory for storing previous user interactions
-- System tray icon for non-intrusive use, similar to Grammarly
+- System tray icon for non-intrusive use
 - Cross-platform support
 
 ## Installation
