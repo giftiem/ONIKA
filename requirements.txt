@@ -1,8 +1,0 @@
-openai
-speechrecognition
-pyttsx3
-PyQt5
-pystray
-sqlite3
-requests
-python-dotenv
